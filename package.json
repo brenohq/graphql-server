@@ -1,0 +1,19 @@
+{
+  "name": "graphql-server",
+  "version": "0.0.1",
+  "description": "Simple GraphQl Server with Express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenohq/graphql-server.git"
+  },
+  "author": "Breno Henrique de Lima Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brenohq/graphql-server/issues"
+  },
+  "homepage": "https://github.com/brenohq/graphql-server#readme"
+}
