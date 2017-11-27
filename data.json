@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Breno Henrique",
+      "email": "contato@brenohq.com",
+      "age": 23
+    },
+    {
+      "id": 1,
+      "name": "Fábio Nogueira",
+      "email": "fabionog@gmail.com",
+      "age": 23
+    },
+    {
+      "id": 1,
+      "name": "Joao C-ManJah",
+      "email": "contato@cmanjah.com",
+      "age": 23
+    }
+  ]
+}
