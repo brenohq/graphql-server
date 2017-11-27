@@ -2,21 +2,33 @@
   "customers": [
     {
       "id": 1,
-      "name": "Breno Henrique",
+      "name": "Breno Henrique de Lima Freitas",
       "email": "contato@brenohq.com",
       "age": 23
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Fábio Nogueira",
       "email": "fabionog@gmail.com",
       "age": 23
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Joao C-ManJah",
       "email": "contato@cmanjah.com",
       "age": 23
+    },
+    {
+      "name": "Djonga",
+      "email": "djonga@sensacao.com",
+      "age": 25,
+      "id": 4
+    },
+    {
+      "name": "Choice",
+      "email": "ruby@king.com",
+      "age": 22,
+      "id": 5
     }
   ]
 }
