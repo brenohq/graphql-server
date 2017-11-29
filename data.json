@@ -2,33 +2,50 @@
   "customers": [
     {
       "id": 1,
-      "name": "Breno Henrique de Lima Freitas",
+      "name": "Breno Henrique",
       "email": "contato@brenohq.com",
-      "age": 23
+      "age": 23,
+      "purchases": [
+        {
+          "id": 123,
+          "product_id": 666,
+          "total_spent": "R$ 900,00"
+        },
+        {
+          "id": 124,
+          "product_id": 667,
+          "total_spent": "R$ 15,00"
+        },
+        {
+          "id": 125,
+          "product_id": 668,
+          "total_spent": "R$ 1,00"
+        }
+      ]
     },
     {
       "id": 2,
-      "name": "Fábio Nogueira",
-      "email": "fabionog@gmail.com",
-      "age": 23
+      "name": "Flávio - The Capoeirista",
+      "email": "paranaue@treegrid.com",
+      "age": 28
     },
     {
       "id": 3,
-      "name": "Joao C-ManJah",
-      "email": "contato@cmanjah.com",
-      "age": 23
+      "name": "Kadu Tchézi - The Showman",
+      "email": "carloschessi@equals.com.br",
+      "age": 29
     },
     {
-      "name": "Djonga",
-      "email": "djonga@sensacao.com",
+      "name": "Alvim - The Witcher",
+      "email": "maguim@yugioh.com",
       "age": 25,
-      "id": 4
+      "id": 28
     },
     {
-      "name": "Choice",
-      "email": "ruby@king.com",
+      "name": "Alvão - The He-Man",
+      "email": "heman@heman.com",
       "age": 22,
-      "id": 5
+      "id": 28
     }
   ]
 }
